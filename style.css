@@ -1,0 +1,64 @@
+#type {
+  text-align: center;
+  margin: auto;
+  width: 90%;
+}
+
+.typeAnimationWrapper {
+  position: absolute;
+  top: 25%;
+  left:25%;
+  text-align: center;
+  font-size: 48px;
+  width:50%;
+  margin: auto;
+}
+
+.typeBoxName {
+  border-radius: 20px;
+}
+
+.typeButtonAfterType {
+  position: relative;
+  bottom: 0;
+  right: 0;
+  width: 90%;
+  margin: auto;
+  margin-top: 10px;
+  text-align: center;
+  display: none;
+}
+
+.typeButtonAfterType button {
+  border: 1px solid #A9A9A9;
+  border-radius: 3px;
+  transition: background .3s, color .3s;
+  background-color: transparent;
+}
+
+.genAddTextPadding {
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.genBlueHighlight {
+  background-color: rgba(194, 235, 239, 0.76);
+}
+
+.genOrangeHighlight {
+  background-color: rgba(255, 197, 58, 0.76);
+}
+
+.genRedHighlight {
+  background-color: rgba(255, 59, 63, 0.60);
+}
+
+.genYellowHighlight {
+  background-color: rgba(250, 240, 95, 0.76);
+}
+
+.genDarkYellowHighlight {
+  background-color: rgba(250, 240, 95, 0.90);
+}
