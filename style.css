@@ -4,10 +4,14 @@
   width: 90%;
 }
 
+body {
+  background-color: #EFEFEF;
+}
+
 .typeAnimationWrapper {
   text-align: center;
   font-size: 48px;
-  width:75%;
+  width: 75%;
   margin: auto;
   margin-top: 50px;
 }
